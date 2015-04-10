@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menuExitTitle">Beenden</string>
+    <string name="menuRefreshTitle">Aktualisieren</string>
+    <string name="menuAboutTitle">Info</string>
+    <string name="menuShareTitle">Teilen</string>
+    <string name="menuRateTitle">Bewerten</string>
+    <string name="progressBarMessage">Lade Inhalt…</string>
+    <string name="noInternetConnectionMessage">Internet-Verbindung ist nicht verfügbar</string>
+    <string name="shareContentSubject">Holen Sie sich dieses coole Android App</string>
+    <string name="shareSiteSubject">Besuchen Sie die Website</string>
+    <string name="loadingVideo">Video-Download</string>
+    <string name="noContentInfoMessage">Irgendetwas ist schief gegangen :( Kein Inhalt verfügbar</string>
+    <string name="loadingPaneTitle">Lade…</string>
+    <string name="startupScreenTitle">Lade…</string>
+    <string name="pinToHomeScreenButtonTitle">Docken Sie zum Desktop</string>
+    <string name="setNewUserAgent">Speichern und Anwenden</string>
+    <string name="urlBoxHint">Geben Sie eine Suchanfrage oder URL ein</string>
+    <string name="backButtonTitle">Zurück</string>
+    <string name="forwardButtonTitle">Vorwärts</string>
+    <string name="refreshgButtonTitle">Aktualisieren</string>
+    <string name="homeButtonTitle">Start</string>
+    <string name="appExitCaption">Wollen Sie die Anwendung wirklich beenden?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="build">Version</string>
+    <string name="sign_in_to">Anmelden …</string>
+    <string name="username">Name</string>
+    <string name="password">Passwort</string>
+    <string name="requestDesktopVersion">PC-Version</string>
+    <string name="AddToStartPage">Zur Startseite hinzufügen</string>
+    <string name="new_start_page_item_added">Das neue Element wurde hinzugefügt</string>
+    <string name="dialog_select_action">Wählen Sie eine Aktion</string>
+    <string name="open_file">Öffnen Sie die Datei</string>
+    <string name="save_file">Speichern Sie die Datei</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="startupConfirmationDialogMessage">Werbung kann am oberen oder unteren Bildschirmrand angezeigt werden. Full-Screen-Werbung wird angezeigt, wenn die Anwendung gestartet wird, die Anwendung beendet wird, oder nach einer Aktion des Benutzers. Beim klicken auf die spezifische Anzeige, werden Sie zu einer Drittanbieter Web-Seite umgeleitet.</string>
+    <string name="startupConfirmationDialogTitle">Nutzungsbedingungen Werbung</string>
+    <string name="startupConfirmationDialogAcceptButtonCaption">Annehmen</string>
+    <string name="startupConfirmationDialogRefuseButtonCaption">Ablehnen</string>
+    <string name="aboutDescriptionWithPubName">Anwendung APP_VERSION PUB_NAME &lt;br /> mit &lt;a href=\"APPSGEYSER_URL\">AppsGeyser.com&lt;/a> erstellt</string>
+    <string name="aboutDescriptionWithoutPubName">Anwendung APP_VERSION mit &lt;a href=\"APPSGEYSER_URL\">AppsGeyser.com&lt;/a> erstellt</string>
+    <string name="aboutFlagText">&lt;b>&lt;a href=http://www.appsgeyser.com/report/?app=APP_ID>Missbrauch melden&lt;/a>&lt;/b>: Lassen Sie uns wissen, wenn die Anwendung unzulässiges Material enthält.</string>
+</resources>

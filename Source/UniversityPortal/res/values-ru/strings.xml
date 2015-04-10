@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menuExitTitle">Выход</string>
+    <string name="menuRefreshTitle">Обновить</string>
+    <string name="menuAboutTitle">Инфо</string>
+    <string name="menuShareTitle">Поделиться</string>
+    <string name="menuRateTitle">Оценить</string>
+    <string name="progressBarMessage">Загрузка контента…</string>
+    <string name="noInternetConnectionMessage">Интернет-соединение недоступно</string>
+    <string name="shareContentSubject">Скачай это классное Android-приложение!</string>
+    <string name="shareSiteSubject">Посетить сайт</string>
+    <string name="loadingVideo">Загрузка видео</string>
+    <string name="noContentInfoMessage">"Ошибка :(
+Контент недоступен"</string>
+    <string name="loadingPaneTitle">Загрузка…</string>
+    <string name="startupScreenTitle">Загрузка…</string>
+    <string name="pinToHomeScreenButtonTitle">Закрепить на рабочем столе</string>
+    <string name="setNewUserAgent">Сохранить и применить</string>
+    <string name="urlBoxHint">Введите запрос или URL</string>
+    <string name="backButtonTitle">Назад</string>
+    <string name="forwardButtonTitle">Вперёд</string>
+    <string name="refreshgButtonTitle">Обновить</string>
+    <string name="homeButtonTitle">Домой</string>
+    <string name="appExitCaption">Вы действительно хотите выйти из приложения?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="build">Сборка</string>
+    <string name="sign_in_to">Войти в …</string>
+    <string name="username">Имя</string>
+    <string name="password">Пароль</string>
+    <string name="requestDesktopVersion">Версия для ПК</string>
+    <string name="AddToStartPage">Добавить на стартовую страницу</string>
+    <string name="new_start_page_item_added">Новый элемент добавлен</string>
+    <string name="dialog_select_action">Выберите действие</string>
+    <string name="open_file">Открыть файл</string>
+    <string name="save_file">Сохранить файл</string>
+    <string name="cancel">Отмена</string>
+    <string name="startupConfirmationDialogMessage">Реклама может быть показана в верхней либо нижней части экрана. Полноэкранная реклама может быть показана при старте приложения, выходе из приложения, либо после каких-либо действий пользователя. При клике по рекламному объявлению вы будете перенаправлены на стороннюю веб-страницу.</string>
+    <string name="startupConfirmationDialogTitle">Правила размещения рекламы</string>
+    <string name="startupConfirmationDialogAcceptButtonCaption">Принять</string>
+    <string name="startupConfirmationDialogRefuseButtonCaption">Отказаться</string>
+    <string name="aboutDescriptionWithPubName">Приложение APP_VERSION от PUB_NAME &lt;br /> создано с &lt;a href=\"APPSGEYSER_URL\">AppsGeyser.com&lt;/a></string>
+    <string name="aboutDescriptionWithoutPubName">Приложение APP_VERSION создано с &lt;a href=\"APPSGEYSER_URL\">AppsGeyser.com&lt;/a></string>
+    <string name="aboutFlagText">&lt;b>&lt;a href=http://www.appsgeyser.com/report/?app=APP_ID>Сообщить о нарушении&lt;/a>&lt;/b>: Сообщите нам, если приложение содержит недопустимый материал.</string>
+</resources>

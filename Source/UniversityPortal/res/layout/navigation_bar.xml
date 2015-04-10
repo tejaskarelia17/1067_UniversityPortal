@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.wUniversityPortal.Model.NavigationSlidingDrawer android:id="@id/navigationBarContainer" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:handle="@id/topNavigationRow" android:content="@id/additionalMenu">
+        <LinearLayout android:gravity="bottom" android:orientation="horizontal" android:id="@id/topNavigationRow" android:background="@color/urlBarBackground" android:paddingTop="6.0dip" android:paddingBottom="6.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageButton android:id="@id/stopRefreshButton" android:background="@drawable/button_style" android:padding="3.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:src="@drawable/cross_item" />
+            <AutoCompleteTextView android:textSize="18.0dip" android:textColor="#ff000000" android:gravity="center_vertical" android:id="@id/urlTextbox" android:background="@android:color/white" android:paddingLeft="3.0dip" android:paddingTop="1.0dip" android:paddingBottom="1.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:hint="@string/urlBoxHint" android:singleLine="true" android:selectAllOnFocus="true" android:completionThreshold="2" android:layout_weight="1.0" android:inputType="textUri" android:imeOptions="actionGo" android:textCursorDrawable="@null" />
+            <ImageButton android:id="@id/showMoreButton" android:background="@android:color/transparent" android:paddingLeft="6.0dip" android:layout_width="38.0dip" android:layout_height="fill_parent" android:layout_marginRight="11.0dip" android:src="@drawable/menu_expand" android:scaleType="fitCenter" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/additionalMenu" android:background="@color/urlBarMenuBackground" android:paddingLeft="8.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </com.wUniversityPortal.Model.NavigationSlidingDrawer>
+</merge>

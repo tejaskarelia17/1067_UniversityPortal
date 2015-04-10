@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.wUniversityPortal.Views.WebContent android:id="@id/webViewPane" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.wUniversityPortal.Views.BrowserWebView android:id="@id/webView" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/progressbarPanel" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true">
+        <ProgressBar android:id="@id/progressbar" android:layout_width="fill_parent" android:layout_height="6.0dip" android:progressDrawable="@drawable/browser_loading_bar" style="?android:attr/progressBarStyleHorizontal" />
+        <TextView android:textSize="18.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/loadingCurtainDefault" android:background="#ee000000" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/loadingPaneTitle" android:editable="false" android:layout_below="@id/progressbar" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/errorDialogPanel" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:color="#55000000" />
+</com.wUniversityPortal.Views.WebContent>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="top|left|center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <FrameLayout android:gravity="top|left|center" android:orientation="horizontal" android:id="@id/tabcontents_panel" android:background="@drawable/contents_background" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </RelativeLayout>
+    <HorizontalScrollView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:cacheColorHint="#ff000000" android:fillViewport="true" android:layout_below="@id/tabcontents_panel" android:layout_alignParentBottom="true">
+        <LinearLayout android:gravity="bottom" android:id="@id/tabtags_panel" android:background="@color/tagsContainerBackground" android:padding="1.0dip" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="61.0dip" />
+    </HorizontalScrollView>
+</merge>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menuExitTitle">Salir</string>
+    <string name="menuRefreshTitle">Actualizar</string>
+    <string name="menuAboutTitle">Acerca de</string>
+    <string name="menuShareTitle">Compartir</string>
+    <string name="menuRateTitle">Puntuar</string>
+    <string name="progressBarMessage">Cargando contenido…</string>
+    <string name="noInternetConnectionMessage">Conexión a Internet no está disponible</string>
+    <string name="shareContentSubject">Consiga este impresionante Android app!</string>
+    <string name="shareSiteSubject">Disfrute de este sitio</string>
+    <string name="loadingVideo">Cargando vídeo</string>
+    <string name="noContentInfoMessage">Algo va mal :( No hay contenido disponible</string>
+    <string name="loadingPaneTitle">Loading…</string>
+    <string name="startupScreenTitle">Loading…</string>
+    <string name="pinToHomeScreenButtonTitle">Pin de escritorio</string>
+    <string name="setNewUserAgent">Guardar y Aplicar</string>
+    <string name="urlBoxHint">Buscar o escribe el URL</string>
+    <string name="backButtonTitle">Espalda</string>
+    <string name="forwardButtonTitle">Adelante</string>
+    <string name="refreshgButtonTitle">Actualizar</string>
+    <string name="homeButtonTitle">Casa</string>
+    <string name="appExitCaption">¿Realmente desea salir de la aplicación?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="build">Construir</string>
+    <string name="sign_in_to">Entra para …</string>
+    <string name="username">Nombre</string>
+    <string name="password">Contraseña</string>
+    <string name="requestDesktopVersion">Página Solicitud de escritorio</string>
+    <string name="AddToStartPage">Agregue esto a la página de inicio</string>
+    <string name="new_start_page_item_added">Nuevo elemento de la página de inicio añadió</string>
+    <string name="dialog_select_action">Seleccione una acción</string>
+    <string name="open_file">Abrir el archivo</string>
+    <string name="save_file">Guardar archivo</string>
+    <string name="cancel">Cancelar</string>
+    <string name="startupConfirmationDialogMessage">La publicidad puede ser mostrada en la parte superior o inferior de la pantalla. La publicidad de pantalla completa se puede mostrar cuando se inicie la aplicación, la aplicación se cierra, o después de la intervención del usuario. Al hacer clic en el anuncio con el que va a ser redirigido a una página web de terceros.</string>
+    <string name="startupConfirmationDialogTitle">Condiciones de la publicidad</string>
+    <string name="startupConfirmationDialogAcceptButtonCaption">Aceptar</string>
+    <string name="startupConfirmationDialogRefuseButtonCaption">Rechazar</string>
+    <string name="aboutDescriptionWithPubName">Apéndice APP_VERSION de PUB_NAME &lt;br /> creado &lt;a href=\"APPSGEYSER_URL\">AppsGeyser.com&lt;/a></string>
+    <string name="aboutDescriptionWithoutPubName">Aplicación APP_VERSION creada con &lt;a href=\"APPSGEYSER_URL\">AppsGeyser.com&lt;/a></string>
+    <string name="aboutFlagText">&lt;b>&lt;a href=http://www.appsgeyser.com/report/?app=APP_ID>Reportar el abuso&lt;/a>&lt;/b>: Haganos saber, si la solicitud contiene un material válido.</string>
+</resources>
