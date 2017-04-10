@@ -1,63 +1,48 @@
-1. Name : Mumbai university mobile portal
+# University Portal Android App
+
+University Portal is a android application which will allow students, teachers and parents to interact with each other. It will provide a platform for teachers in efficiently manage students and classes. Students will be able to access the notice board on the go in their android tablet. There are many such features in this app.
+This app was developed as a freelance project under the supervision of my undergraduate degree professor.
+
+### Requirements
+
+* Android Phone
+
+### Installation
+
+Clone the repository
+```sh
+$ https://github.com/tejaskarelia17/1067_UniversityPortal.git
+```
+
+Follow these steps to run the application
+   
+1) Copy the .apk file on your phone.
+2) Browse to the .apk file on your phone.
+3) Install the app.
+4) White Screen will be displayed, wait for the app to load.
+5) Incase the app takes too much time to load, tap on the white screen twice and close the app.
+6) Use the below details to use the app.
+
+    | User | Username | password |
+    | ------ | ------ | ------ |
+    | Admin | admin@university.com | 123456 |
+    | Student | student@university.com | 123456 |
+    | Teacher | teacher@university.com | 1234 |
+    | Parent | fstud1@university.com | 123456789 |
+    
+`This project is no more active on the server. This repository is kept only for referencing purposes!!!
+Sorry for the inconvenience`
+
+### Details of the Project
+
+1)  Name : Mumbai university mobile portal
+2)  Remote Centre ID (RC_ID) :1067
+3)  College / Institute Name : St. Francis Institute of Technology
+4)  City, State, Pin Code : Mumbai, Maharashtra, 400103.
+5)  Link :  http://aakashlabs.org/ac/project/162/
 
 
-
-2. Remote Centre ID (RC_ID) :1067
-
-
-
-3. College / Institute Name : St. Francis Institute of Technology
-
-
-
-4. City, State, Pin Code : Mumbai, Maharashtra, 400103.
- 
-
-
-5. Name/’s of the Student : Mrs. Nazneen Ansari, Team Members: Tejas Karelia, Karthik Harita
-
-
-
-6. About: University Portal is a android application which will allow students, teachers and parents to interact with each other.
- It will provide a platform for teachers in efficiently manage students and classes. Students will be able to access the
-	notice board on the go in their android tablet. There are many such features in this app.
-
-
-
-7. Install: Step by step procedure to install software.
-	
-(1) Download the apk file.
-	
-(2) Click on the apk file.
-	
-(3) Installation window will pop up, click next and let the software install on the tablet.
-	
-(4) Click on Done after the installation is finished(Don't click on open directly).
-(5) Click on the app icon in the menu screen.
-(6) White Screen will be displayed, wait for the app to load.
-(7) Incase the app takes too much time to load, tap on the white screen twice and close the app.
-(8) Relaunch the app.
-(9) Use the below details to use the app.
-
-
-
-8. Usage :
-	
-(1) Start the application by clicking on the icon.
-	
-(2) Login with the following details - 	
-	->Admin- username:admin@university.com			password:123456
-						->Student- username:student@university.com		password:123456
-						->Teacher- username:teacher@gmail.com			password:1234
-						->Parent- username:fstud1@university.com			password:123456789	
-
-
-
-9. Contact :- tejas.karelia17@gmail.com / university-portal@googlegroups.com
-
-
-
-10. License (GNU GPL version 3 with link to full license on gnu.org site.) 
+### License
 University Portal is a android Application which  will allow students, teachers and parents to interact with each other.
 
 
@@ -71,3 +56,7 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/gpl.txt
+
+   [obj-c]: <https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html>
+   [Adobe Photoshop]: <http://www.adobe.com/products/photoshop.html>
+   [Adobe After Effects]: <http://www.adobe.com/products/aftereffects.html>
