@@ -43,12 +43,6 @@ Sorry for the inconvenience`
 
 
 ### License
-University Portal is a android Application which  will allow students, teachers and parents to interact with each other.
-
-
-
-Copyright (C) 2015 Karthik Harita, Tejas Karelia(Email Id: tejas.karelia17@gmail.com / university-portal@googlegroups.com)
-
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 
