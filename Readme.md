@@ -50,7 +50,3 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/gpl.txt
-
-   [obj-c]: <https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html>
-   [Adobe Photoshop]: <http://www.adobe.com/products/photoshop.html>
-   [Adobe After Effects]: <http://www.adobe.com/products/aftereffects.html>
